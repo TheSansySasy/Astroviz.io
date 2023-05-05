@@ -20,38 +20,6 @@ This project utilizes the following Python libraries:
 - Plotly Subplot: for arranging multiple plots in a grid
 - Plotly Graph Object: for creating custom visualizations
 
-## Graphs
-
-The following graphs are generated in AstroViz:
-
-
-### Moon Phases
-
-A line graph depicting the phases of the Moon over time.
-
-### Moon Distance
-
-A scatter plot depicting the distance of the Moon from Earth over time.
-
-### Asteroid Sizes
-
-A bar chart depicting the sizes of various asteroids in kilometers.
-
-### Asteroid Distances
-
-A scatter plot depicting the distances of various asteroids from Earth in millions of kilometers.
-
-### Comet Orbits
-
-A 3D scatter plot depicting the orbits of various comets around the Sun.
-
-### Comet Visibility
-
-A scatter plot depicting the dates of visibility for various comets.
-
-### Solar Flare Intensity
-
-A line graph depicting the intensity of solar flares over time.
 
 ## Conclusion
 
