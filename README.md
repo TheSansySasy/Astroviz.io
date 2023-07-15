@@ -14,7 +14,7 @@ The data used in this project is provided in CSV format and includes information
 ## Libraries Used
 
 This project utilizes the following Python libraries:
-
+ 
 - Pandas: for data manipulation and processing
 - Plotly: for creating interactive data visualizations
 - Plotly Subplot: for arranging multiple plots in a grid
